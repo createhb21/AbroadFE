@@ -5,4 +5,4 @@
 - Recoil
 - styled-component
 
-Abroad is team project. you can go more info in [Abroad Github](https://github.com/AbroadKR)
+Abroad is team project. you can go to get more info, in [Abroad Github](https://github.com/AbroadKR)
